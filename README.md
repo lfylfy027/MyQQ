@@ -1,6 +1,7 @@
 # MyQQ
 Its our team project. ˙＾˙
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 这是一个基于Java语言的聊天程序。
 
@@ -28,4 +29,5 @@ Its our team project. ˙＾˙
 9月23日，我们项目组开了第二次线下会议。
 
 =======
+
 
