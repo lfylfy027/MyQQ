@@ -10,6 +10,7 @@
 - [李昭希](https://github.com/hopeloop)
 - [杨林峰](https://github.com/callumyang)
 - [陈小灵](https://github.com/chen-xling)
+- [杨懿坤](https://github.com/yyk776)
 ### 项目目标
 - 学习使用git和github
 - 尝试参与开源，融入到开源社区，学习开源精神
@@ -24,6 +25,3 @@
 9月15日，我们项目组开了第一次线下会议。
 
 9月23日，我们项目组开了第二次线下会议。
-
-
-
