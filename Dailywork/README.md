@@ -9,6 +9,8 @@
 
 上传如本文件夹下相应题号文件夹，如“lc113”即为LeetCode上第113题，代码文件以“lc113_xxx”形式命名
 
+---
+
 # 9.28 算法题
 **LeetCode 第38题，[外观数列](https://leetcode-cn.com/problems/count-and-say/)，难度：简单**
 
