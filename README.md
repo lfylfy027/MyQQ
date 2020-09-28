@@ -1,10 +1,11 @@
 # MyQQ
-Its our team project. ˙＾˙
 
-这是一个基于Java语言的聊天程序。
+本项目是我们的实验班小组项目，原计划是使用java编写一个仿照QQ的线上聊天工具。
+
+目前同时进行小组的每日算法题汇总。
 
 ### 项目核心成员
-- [林方宇](https://github.com/lyflyf027)
+- [林方宇](https://github.com/lfylfy027)
 - [曹灿](https://github.com/01000011-43)
 - [李昭希](https://github.com/hopeloop)
 - [杨林峰](https://github.com/callumyang)
