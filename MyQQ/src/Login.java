@@ -1,5 +1,9 @@
 import java.awt.Container;
 import java.awt.Frame;
+import java.io.DataInputStream;
+import java.io.DataOutputStream;
+import java.net.ServerSocket;
+import java.net.*;
 
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
@@ -47,7 +51,22 @@ public class Login extends JFrame {
 		this.setLocationRelativeTo(null);
 		this.setVisible(true);
 	}
+	
+	public static void client() {
+		int port=6666;
+		String host="localhost";
+		try {
+		Socket socket=new Socket(host,port);
+		DataInputStream in=new DataInputStream(socket.getInputStream());
+		DataOutputStream out=new DataOutputStream(socket.getOutputStream());
+		out.writeInt(5);
+		out.flush();
+		} catch (Exception e) {
+			// TODO: handle exception
+		}	
+		}
 	public static void main(String args[]) {
 		new Login();
+		client();
 	}
 }
