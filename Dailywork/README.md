@@ -10,7 +10,15 @@
 上传如本文件夹下相应题号文件夹，如“lc113”即为LeetCode上第113题，代码文件以“lc113_xxx”形式命名
 
 ---
+# 9.29 算法题
+**LeetCode 第66题，[加一](https://leetcode-cn.com/problems/plus-one/)，难度：简单**
 
+给定一个由整数组成的非空数组所表示的非负整数，在该数的基础上加一。
+
+最高位数字存放在数组的首位， 数组中每个元素只存储单个数字。
+
+你可以假设除了整数 0 之外，这个整数不会以零开头。
+---
 # 9.28 算法题
 **LeetCode 第38题，[外观数列](https://leetcode-cn.com/problems/count-and-say/)，难度：简单**
 
@@ -30,7 +38,7 @@
 
 描述前一项，这个数是 1211 即 “一个 1 一个 2 两个 1 ” ，记作 111221
 
-**LeetCode 第1518题，[换酒问题](https://leetcode-cn.com/problems/water-bottles/),难度：简单**
+**LeetCode 第1518题，[换酒问题](https://leetcode-cn.com/problems/water-bottles/),  难度：简单**
 小区便利店正在促销，用 numExchange 个空酒瓶可以兑换一瓶新酒。你购入了 numBottles 瓶酒。
 
 如果喝掉了酒瓶中的酒，那么酒瓶就会变成空的。
@@ -47,7 +55,7 @@
 
 所以最多能喝到 9 + 3 + 1 = 13 瓶酒。
 
-
+---
 # 9.27 算法题
 **LeetCode 第7题，[整数反转](https://leetcode-cn.com/problems/reverse-integer/)，难度：简单**
 
