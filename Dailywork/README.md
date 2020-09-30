@@ -10,6 +10,14 @@
 上传如本文件夹下相应题号文件夹，如“lc113”即为LeetCode上第113题，代码文件以“lc113_xxx”形式命名
 
 ---
+# 9.30 算法题
+**LeetCode 第169题，[多数元素](https://leetcode-cn.com/problems/majority-element/)，难度：简单**
+
+给定一个大小为 n 的数组，找到其中的多数元素。多数元素是指在数组中出现次数大于 ⌊ n/2 ⌋ 的元素。
+
+你可以假设数组是非空的，并且给定的数组总是存在多数元素。
+
+---
 # 9.29 算法题
 **LeetCode 第66题，[加一](https://leetcode-cn.com/problems/plus-one/)，难度：简单**
 
